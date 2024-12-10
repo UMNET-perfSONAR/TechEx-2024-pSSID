@@ -9,6 +9,8 @@ GUI Server Mini Demo
 
 http://pssid-gui-dev.miserver.it.umich.edu:8080/
 
+[PDF](images/TechEx_2024_pSSID_poster.pdf)
+
 <p align="center">
 <img src="images/TechEx_2024_pSSID_poster.pdf" width="50%"></img>
 </p>
